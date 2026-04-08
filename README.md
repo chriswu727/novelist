@@ -19,3 +19,23 @@ A comprehensive collection of profiles on 13 of history's most influential novel
 | 11 | [Leo Tolstoy](11_leo_tolstoy.md) | Russia | 1828-1910 | Epic Realism |
 | 12 | [Franz Kafka](12_franz_kafka.md) | Czech/Austro-Hungarian | 1883-1924 | Absurdist / Existentialist |
 | 13 | [J.K. Rowling](13_jk_rowling.md) | UK (England) | 1965- | Fantasy / Children's Literature |
+
+---
+
+## The Novel
+
+**[The Testimony of Silence](the_testimony_of_silence.md)** — A 41,000-word novella where all 13 master novelists' styles are fused into a single Cthulhu cosmic horror mystery. Each chapter channels different authors' voices while telling a unified story about a literary scholar, a cursed manuscript, and the silence that lives between all words.
+
+| Chapter | Title | Primary Styles |
+|---------|-------|---------------|
+| 1 | The Letter | Poe + Lovecraft |
+| 2 | The Deductions | Conan Doyle + Christie |
+| 3 | The Archive | Kafka + Dostoevsky |
+| 4 | The First Reading | Murakami + Garcia Marquez |
+| 5 | The Town Remembers | Tolstoy + Garcia Marquez |
+| 6 | The Devotion | Higashino + Christie |
+| 7 | The Confession | Dostoevsky + King |
+| 8 | The Descent | Lovecraft + Hemingway |
+| 9 | The Thirteenth Author | Christie + Higashino + Rowling |
+| 10 | The Testimony | All 13 styles synthesized |
+| Epilogue | — | Resolution |
